@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend dev
 - 🌱 I’m currently learning frontend
 - 💞️ I’m looking to collaborate on anyone 
-- 📫 How to reach me ajalaayodeji125@gmail.com , @kingAjaz15
+- 📫 How to reach me ajalaayodeji125@gmail.com , TWITTER: https://twitter.com/kingAjaz15?s=09
 - replt: https://replit.com/@KingAjaz/HeftyEminentJavadoc#index.js zuri task
 
 <!---

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KingAjaz
-- 👀 I’m interested in frontend dev
-- 🌱 I’m currently learning frontend
+- 👀 I’m a frontend dev transitioning into cyber security
+- 🌱 I’m currently into cyber security
 - 💞️ I’m looking to collaborate on anyone 
 - 📫 How to reach me ajalaayodeji125@gmail.com , TWITTER: https://twitter.com/kingAjaz15?s=09
 - replt: https://replit.com/@KingAjaz/HeftyEminentJavadoc#index.js zuri task
